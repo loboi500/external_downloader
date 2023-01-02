@@ -1,10 +1,3 @@
-name: "Android Downloader"
-description: "Android Downloader library for in-process downloading."
-
-third_party {
-  url {
-    type: PIPER
-    value: "http://google3/third_party/java_src/android_libs/downloader"
-  }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1741f218a0a187676fe8b6f1b9594031901e75dd9a2ee353e42d0d05cb7635c1
+size 238
